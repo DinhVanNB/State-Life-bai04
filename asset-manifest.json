@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/State-Life-bai03/static/css/main.40c06126.css",
-    "main.js": "/State-Life-bai03/static/js/main.66b85996.js",
-    "static/js/787.90413281.chunk.js": "/State-Life-bai03/static/js/787.90413281.chunk.js",
-    "index.html": "/State-Life-bai03/index.html",
-    "main.40c06126.css.map": "/State-Life-bai03/static/css/main.40c06126.css.map",
-    "main.66b85996.js.map": "/State-Life-bai03/static/js/main.66b85996.js.map",
-    "787.90413281.chunk.js.map": "/State-Life-bai03/static/js/787.90413281.chunk.js.map"
+    "main.css": "/State-Life-bai04/static/css/main.40c06126.css",
+    "main.js": "/State-Life-bai04/static/js/main.aabda8c7.js",
+    "static/js/787.90413281.chunk.js": "/State-Life-bai04/static/js/787.90413281.chunk.js",
+    "index.html": "/State-Life-bai04/index.html",
+    "main.40c06126.css.map": "/State-Life-bai04/static/css/main.40c06126.css.map",
+    "main.aabda8c7.js.map": "/State-Life-bai04/static/js/main.aabda8c7.js.map",
+    "787.90413281.chunk.js.map": "/State-Life-bai04/static/js/787.90413281.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40c06126.css",
-    "static/js/main.66b85996.js"
+    "static/js/main.aabda8c7.js"
   ]
 }
